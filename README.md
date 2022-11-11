@@ -5,7 +5,7 @@
 
 https://larissasn.github.io/Portfolio/
 
-Este é meu portfólio criado com intuido de  mostrar o projetos que venho desenvolvendo ao logo do meus estudos e aprimorar meus conhecimos,
+Este é meu portfólio criado com intuido de  mostrar o projetos que venho desenvolvendo ao logo do meus estudos e aprimorar meus conhecimentos,
 voltado no momento apenas pro Fron-End.
 E muito breve também os projetos que serão desenvolvido exclusivamente por mim. 
 
