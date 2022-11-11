@@ -11,7 +11,7 @@ E muito breve também os projetos que serão desenvolvido exclusivamente por mim
 
 
 ## Layout mobile e web
-![Mobile 1]() 
+![Mobile 1](https://github.com/larissasn/Portfolio/blob/master/ativos/img/Print-portfolio.png?raw=true) 
 
 # Tecnologias utilizadas
 
