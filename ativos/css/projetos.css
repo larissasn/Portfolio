@@ -63,15 +63,13 @@ button:hover {
 }
 
 .pro:hover {
-    letter-spacing: 5px;
+    letter-spacing: 2px;
 }
 
 .pro div {
-    background-color: #c419cd;
+    background-color: #C4C4C4 ;
     width: 1000px;
     text-align: center;
-    padding: 5% 0;
-    transform: rotate(-50deg);
 }
 
 .escondido {

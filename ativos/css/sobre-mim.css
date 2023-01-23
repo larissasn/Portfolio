@@ -3,6 +3,8 @@
     background-color: #563d7c;
 }
 
+
+
 .ajustador-2 {
     padding: 144px 0;
     display: flex;
@@ -17,7 +19,9 @@ h2 {
     font-size: 45px;
     color: white;
 }
-
+#sobre-mim p{
+    text-align: justify;
+}
 .circulo {
     position: absolute;
 }
