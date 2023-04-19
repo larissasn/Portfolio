@@ -102,30 +102,32 @@
     opacity: 0;
 }
 
-.skill1{
-    background-image: url(../img/html2.svg);
+.skill01 {
+    background-image: url(../img/react2.svg);
 }
-
-.skill2 {
-    background-image: url(../img/css2.svg);
-}
-
-.skill3 {
-    background-image: url(../img/js2.svg);
-}
-
-.skill8 {
+.skill02 {
     background-image: url(../img/node2.svg);
 }
 
-.skill9 {
+.skill03 {
+    background-image: url(../img/js2.svg);
+}
+
+.skill04 {
+    background-image: url(../img/css2.svg);
+}
+.skill05{
+    background-image: url(../img/html2.svg);
+}
+
+.skill06 {
     background-image: url(../img/git2.svg);
 }
 
-
-.skill10 {
+.skill07 {
     background-image: url(../img/github2.svg);
 }
+
 
 #fundo {
     fill: #c419cd;
