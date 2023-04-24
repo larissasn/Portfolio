@@ -2,6 +2,7 @@ const skills = document.querySelectorAll('.skill-box');
 const descricao = document.querySelector('.texto-descricao');
 const sobreSkill = [
     '<p>React</p> <br> <p> O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web. </p> <br>',
+    '<p>Styled Components</p> <br> <p> O React é uma biblioteca JavaScript declarativa, eficiente e flexível para criar interfaces. Ele permite compor UIs complexas a partir de pequenos e isolados códigos chamados "componentes".</p> <br>',
     '<p>Node.js</p> <br> <p> Um software que permite rodar aplicações JavaScript do lado do servidor. </p> <br>',
     '<p>JavaScript</p> <br> <p>É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias da web.</p> <br>',
     '<p>CSS</p> <br> <p>É um mecanismo para adicionar estilo a um documento web.</p> <br>',
@@ -10,7 +11,8 @@ const sobreSkill = [
     '<p>Github</p> <br> <p>É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. </p> <br>'
 ]
 const dataInicio = [
-    (new Date(2023, 01, 01)).getTime(), // ReactJS
+    (new Date(2023, 02, 01)).getTime(), // ReactJS
+    (new Date(2023, 02, 01)).getTime(), // Styled Components
     (new Date(2023, 01, 01)).getTime(), // Node.js
     (new Date(2022, 7, 13)).getTime(), // Javascript
     (new Date(2022, 3, 15)).getTime(), // Css3
