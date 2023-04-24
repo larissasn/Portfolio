@@ -106,25 +106,28 @@
     background-image: url(../img/react2.svg);
 }
 .skill02 {
+    background-image: url(../img/styled2.svg);
+}
+.skill03 {
     background-image: url(../img/node2.svg);
 }
 
-.skill03 {
+.skill04 {
     background-image: url(../img/js2.svg);
 }
 
-.skill04 {
+.skill05 {
     background-image: url(../img/css2.svg);
 }
-.skill05{
+.skill06{
     background-image: url(../img/html2.svg);
 }
 
-.skill06 {
+.skill07 {
     background-image: url(../img/git2.svg);
 }
 
-.skill07 {
+.skill08 {
     background-image: url(../img/github2.svg);
 }
 
